@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230005163465",
+    "project_id": "koitoauth",
+    "storage_bucket": "koitoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230005163465:android:907c658f2512169d8cd418",
+        "android_client_info": {
+          "package_name": "com.prototype.koitgoogleoauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230005163465-hpndf9o79jkv1gh8n7pd93c4osvm76gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prototype.koitgoogleoauth",
+            "certificate_hash": "a160cb0c09f56a4a4147bcbd2c6eed923cd2602f"
+          }
+        },
+        {
+          "client_id": "230005163465-g4bsaipu1jhr1u3q3d3qf43725equ5vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUgMyOORytkC-MJwKpCzSYCLZtW6w3jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230005163465-g4bsaipu1jhr1u3q3d3qf43725equ5vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
